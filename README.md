@@ -4,9 +4,9 @@
 
 较新版本的闲鱼推出了找货助手功能。
 
-如需联系作者，可添加下方QQ
+##### 联系QQ （用QQ扫二维码，或者添加QQ号）
 
-![](demo/demo00.png)
+![](https://github.com/FightingForWhat/idlefish_xianyu_spider-crawler-sender/raw/main/demo/demo11.png)
 
 
 虽然目前该功能只对手机大类开放，但也算是官方推出了闲鱼助手工具。
